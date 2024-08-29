@@ -1,16 +1,11 @@
 <template>
-  <Header/>
-  <Hero/>
+	<Hero />
 </template>
 
-
 <script>
-// useHead({
-//   title: 'TripTrader'
-// })
+	// useHead({
+	//   title: 'TripTrader'
+	// })
 </script>
 
-
-<style scoped>
-
-</style>§
+<style scoped></style>
